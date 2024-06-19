@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "experiments": {
-        "baseUrl": "/expo-gh-pages"
+        "baseUrl": "."
     },
     "splash": {
       "image": "./assets/splash.png",
